@@ -1,0 +1,18 @@
+vehicle_colors = {
+    "unknown": "unknown",
+    "white": "white",
+    "silver": "silvery",
+    "gray": "gray",
+    "black": "black",
+    "red": "red",
+    "deepBlue": "dark blue",
+    "blue": "blue",
+    "yellow": "yellow",
+    "green": "green",
+    "brown": "brown",
+    "pink": "pink",
+    "purple": "purple",
+    "deepGray": "dark gray",
+    "cyan": "cyan",
+    "orange": "orange",
+}
